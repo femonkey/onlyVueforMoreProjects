@@ -1,6 +1,6 @@
-# demoto
+# Vue 单工程管理多功能
 
-> A Vue.js project
+> 分开打包编译
 
 ## Build Setup
 
