@@ -19,4 +19,4 @@ npm run build --report
 ```
 ##更改的内容具体参见 cofig 目录下的内容
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+参考文档：https://www.jianshu.com/p/fa19a07b1496
